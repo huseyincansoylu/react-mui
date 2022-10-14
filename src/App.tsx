@@ -1,8 +1,10 @@
+import MuiTypo from "./components/MuiTypo"
+
 function App() {
 
   return (
     <div>
-      hello
+      <MuiTypo />
     </div>
   )
 }
