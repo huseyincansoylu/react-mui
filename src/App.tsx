@@ -1,10 +1,10 @@
-import MuiButton from "./components/MuiButton"
+import MuiBtnGroup from "./components/MuiBtnGroup"
 
 function App() {
 
   return (
     <div style={{ margin: "100px" }}>
-      <MuiButton />
+      <MuiBtnGroup />
     </div>
   )
 }
