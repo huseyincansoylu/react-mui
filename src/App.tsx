@@ -1,10 +1,10 @@
-import MuiTextField from "./components/MuiTextField"
+import MuiSelect from "./components/MuiSelect"
 
 function App() {
 
   return (
     <div style={{ margin: "100px" }}>
-      <MuiTextField />
+      <MuiSelect />
     </div>
   )
 }
