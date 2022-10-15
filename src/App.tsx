@@ -1,10 +1,10 @@
-import MuiBtnGroup from "./components/MuiBtnGroup"
+import MuiToggleBtn from "./components/MuiToggleBtn"
 
 function App() {
 
   return (
     <div style={{ margin: "100px" }}>
-      <MuiBtnGroup />
+      <MuiToggleBtn />
     </div>
   )
 }
