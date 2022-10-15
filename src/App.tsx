@@ -1,10 +1,10 @@
-import MuiRadio from "./components/MuiRadio"
+import MuiCheckBox from "./components/MuiCheckBox"
 
 function App() {
 
   return (
     <div style={{ margin: "100px" }}>
-      <MuiRadio />
+      <MuiCheckBox />
     </div>
   )
 }
