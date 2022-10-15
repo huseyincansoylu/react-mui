@@ -1,10 +1,10 @@
-import MuiSelect from "./components/MuiSelect"
+import MuiRadio from "./components/MuiRadio"
 
 function App() {
 
   return (
     <div style={{ margin: "100px" }}>
-      <MuiSelect />
+      <MuiRadio />
     </div>
   )
 }
