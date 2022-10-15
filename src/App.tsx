@@ -1,10 +1,10 @@
-import MuiCheckBox from "./components/MuiCheckBox"
+import MuiSwitch from "./components/MuiSwitch"
 
 function App() {
 
   return (
     <div style={{ margin: "100px" }}>
-      <MuiCheckBox />
+      <MuiSwitch />
     </div>
   )
 }
