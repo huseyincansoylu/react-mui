@@ -1,10 +1,10 @@
-import MuiToggleBtn from "./components/MuiToggleBtn"
+import MuiTextField from "./components/MuiTextField"
 
 function App() {
 
   return (
     <div style={{ margin: "100px" }}>
-      <MuiToggleBtn />
+      <MuiTextField />
     </div>
   )
 }
