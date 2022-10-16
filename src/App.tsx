@@ -1,12 +1,12 @@
 import React from "react"
-import MuiList from "./components/MuiList"
+import MuiTable from "./components/MuiTable"
 
 
 function App() {
 
   return (
     <div style={{ margin: "100px" }}>
-      <MuiList />
+      <MuiTable />
     </div>
   )
 }
