@@ -1,12 +1,12 @@
 import React from "react"
-import MuiGrid from "./components/MuiGrid"
+import MuiPaper from "./components/MuiPaper"
 
 
 function App() {
 
   return (
     <div style={{ margin: "100px" }}>
-      <MuiGrid />
+      <MuiPaper />
     </div>
   )
 }
