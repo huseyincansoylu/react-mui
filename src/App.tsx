@@ -1,12 +1,12 @@
 import React from "react"
-import MuiRating from "./components/MuiRating"
+import MuiAutoComplete from "./components/MuiAutoComplete"
 
 
 function App() {
 
   return (
     <div style={{ margin: "100px" }}>
-      <MuiRating />
+      <MuiAutoComplete />
     </div>
   )
 }
