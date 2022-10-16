@@ -1,12 +1,12 @@
 import React from "react"
-import MuiAutoComplete from "./components/MuiAutoComplete"
+import MuiBox from "./components/MuiBox"
 
 
 function App() {
 
   return (
     <div style={{ margin: "100px" }}>
-      <MuiAutoComplete />
+      <MuiBox />
     </div>
   )
 }
