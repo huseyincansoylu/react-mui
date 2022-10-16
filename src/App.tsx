@@ -1,12 +1,12 @@
 import React from "react"
-import MuiCard from "./components/MuiCard"
+import MuiAcordion from "./components/MuiAcordion"
 
 
 function App() {
 
   return (
     <div style={{ margin: "100px" }}>
-      <MuiCard />
+      <MuiAcordion />
     </div>
   )
 }
