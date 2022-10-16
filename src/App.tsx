@@ -1,12 +1,12 @@
 import React from "react"
-import MuiAcordion from "./components/MuiAcordion"
+import ImageList from "./components/MuiImageList"
 
 
 function App() {
 
   return (
     <div style={{ margin: "100px" }}>
-      <MuiAcordion />
+      <ImageList />
     </div>
   )
 }
