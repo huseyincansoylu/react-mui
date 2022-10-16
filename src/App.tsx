@@ -1,12 +1,12 @@
 import React from "react"
-import MuiAvatar from "./components/MuiAvatar"
+import MuiList from "./components/MuiList"
 
 
 function App() {
 
   return (
     <div style={{ margin: "100px" }}>
-      <MuiAvatar />
+      <MuiList />
     </div>
   )
 }
