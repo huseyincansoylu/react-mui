@@ -1,10 +1,12 @@
-import MuiSwitch from "./components/MuiSwitch"
+import React from "react"
+import MuiRating from "./components/MuiRating"
+
 
 function App() {
 
   return (
     <div style={{ margin: "100px" }}>
-      <MuiSwitch />
+      <MuiRating />
     </div>
   )
 }
