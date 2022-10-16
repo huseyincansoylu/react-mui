@@ -1,12 +1,12 @@
 import React from "react"
-import MuiBox from "./components/MuiBox"
+import MuiStack from "./components/MuiStack"
 
 
 function App() {
 
   return (
     <div style={{ margin: "100px" }}>
-      <MuiBox />
+      <MuiStack />
     </div>
   )
 }
